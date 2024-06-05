@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio-Website](https://muhammadbinzohaib.vercel.app/)
 
-- 📝 I regularly write articles on [https://techmbz-blogs.vercel.app/](https://techmbz-blogs.vercel.app/)
+- 📝 I regularly write articles on [Blog-Website](https://techmbz-blogs.vercel.app/)
 
 - 💬 Ask me about **Next.js**
 
-- 📫 How to reach me **muhammadzohaib1415@gmail.com**
+- 📫 How to reach me **[My-Email](muhammadzohaib1415@gmail.com)**
 
-- 📄 Know about my experiences [https://muhammadbinzohaib.vercel.app/](https://muhammadbinzohaib.vercel.app/)
+- 📄 Know about my experiences [See Portfolio](https://muhammadbinzohaib.vercel.app/)
 
 - ⚡ Fun fact **i am funny**
 
