@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [New Framworks](https://muhammadbinzohaib.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://muhammadbinzohaib.vercel.app/](https://muhammadbinzohaib.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio-Website](https://muhammadbinzohaib.vercel.app/)
 
 - 📝 I regularly write articles on [https://techmbz-blogs.vercel.app/](https://techmbz-blogs.vercel.app/)
 
